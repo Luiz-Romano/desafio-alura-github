@@ -273,3 +273,9 @@
 // console.log(nomes[2])
 
 // adicionando essa linha para testar o desafio
+// segunda linha do teste para o desafio.
+
+// test...
+// test..
+// test.
+// test
